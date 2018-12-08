@@ -1,0 +1,10 @@
+# idea
+.idea
+*.iml
+
+# github pages
+_site
+
+
+# gemfiles
+Gemfile*
